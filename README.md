@@ -1,2 +1,2 @@
 # Hello-World
-Ideas/Resources
+I like c++/python.
